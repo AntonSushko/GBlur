@@ -1,2 +1,2 @@
 # GBlur
-Gaussian_Blur, C
+Gaussian_Blur for BMP-images, C
