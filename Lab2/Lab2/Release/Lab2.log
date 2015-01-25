@@ -1,0 +1,21 @@
+﻿Сборка начата 24.01.2015 2:23:09.
+     1>Проект "C:\Users\Mustang\Desktop\Учеба\ЯСП\Gaussian Blur\Lab2\Lab2\Lab2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt lab1.c
+         lab1.c
+     1>lab1.c(68): warning C4013: Gblur: нет определения; предполагается "extern" с возвратом типа "int"
+     1>lab1.c(39): warning C4101: result_function: неиспользованная локальная переменная
+     1>lab1.c(128): warning C4018: <: несоответствие типов со знаком и без знака
+     1>lab1.c(129): warning C4018: <: несоответствие типов со знаком и без знака
+     1>lab1.c(134): warning C4018: <: несоответствие типов со знаком и без знака
+     1>lab1.c(144): warning C4018: <: несоответствие типов со знаком и без знака
+     1>lab1.c(145): warning C4018: <: несоответствие типов со знаком и без знака
+     1>lab1.c(149): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mustang\Desktop\Учеба\ЯСП\Gaussian Blur\Lab2\Release\Lab2.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mustang\Desktop\Учеба\ЯСП\Gaussian Blur\Lab2\Release\Lab2.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mustang\Desktop\Учеба\ЯСП\Gaussian Blur\Lab2\Release\Lab2.lib" /MACHINE:X86 /SAFESEH Release\lab1.obj
+     1>LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Mustang\Desktop\Учеба\ЯСП\Gaussian Blur\Lab2\Release\Lab2.exe"
+     1>Сборка проекта "C:\Users\Mustang\Desktop\Учеба\ЯСП\Gaussian Blur\Lab2\Lab2\Lab2.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.27
